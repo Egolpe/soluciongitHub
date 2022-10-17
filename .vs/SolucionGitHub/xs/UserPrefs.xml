@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{6D842454-ABFD-406D-8AE8-EBFBF90AE8C6}|Default">
-  <MonoDevelop.Ide.ItemProperties.Github FirstBuild="True" />
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{6D842454-ABFD-406D-8AE8-EBFBF90AE8C6}|Default">
+  <MonoDevelop.Ide.ItemProperties.Github PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>

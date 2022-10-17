@@ -1,0 +1,15 @@
+/Users/enriquegolpeares/Desktop/proyectogithub/SolucionGitHub/Github/bin/Debug/net6.0/Github
+/Users/enriquegolpeares/Desktop/proyectogithub/SolucionGitHub/Github/bin/Debug/net6.0/Github.deps.json
+/Users/enriquegolpeares/Desktop/proyectogithub/SolucionGitHub/Github/bin/Debug/net6.0/Github.runtimeconfig.json
+/Users/enriquegolpeares/Desktop/proyectogithub/SolucionGitHub/Github/bin/Debug/net6.0/Github.dll
+/Users/enriquegolpeares/Desktop/proyectogithub/SolucionGitHub/Github/bin/Debug/net6.0/Github.pdb
+/Users/enriquegolpeares/Desktop/proyectogithub/SolucionGitHub/Github/obj/Debug/net6.0/Github.csproj.AssemblyReference.cache
+/Users/enriquegolpeares/Desktop/proyectogithub/SolucionGitHub/Github/obj/Debug/net6.0/Github.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enriquegolpeares/Desktop/proyectogithub/SolucionGitHub/Github/obj/Debug/net6.0/Github.AssemblyInfoInputs.cache
+/Users/enriquegolpeares/Desktop/proyectogithub/SolucionGitHub/Github/obj/Debug/net6.0/Github.AssemblyInfo.cs
+/Users/enriquegolpeares/Desktop/proyectogithub/SolucionGitHub/Github/obj/Debug/net6.0/Github.csproj.CoreCompileInputs.cache
+/Users/enriquegolpeares/Desktop/proyectogithub/SolucionGitHub/Github/obj/Debug/net6.0/Github.dll
+/Users/enriquegolpeares/Desktop/proyectogithub/SolucionGitHub/Github/obj/Debug/net6.0/refint/Github.dll
+/Users/enriquegolpeares/Desktop/proyectogithub/SolucionGitHub/Github/obj/Debug/net6.0/Github.pdb
+/Users/enriquegolpeares/Desktop/proyectogithub/SolucionGitHub/Github/obj/Debug/net6.0/Github.genruntimeconfig.cache
+/Users/enriquegolpeares/Desktop/proyectogithub/SolucionGitHub/Github/obj/Debug/net6.0/ref/Github.dll

@@ -6,5 +6,5 @@ Console.WriteLine("Probando cambios de gitHub2");
 var mensaje = "hello";
 Console.WriteLine(mensaje);
 
-var cambio1 = "cambio1";
+var cambio1 = "cambio desde github";
 Console.WriteLine(cambio1);
